@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2022-05-11T14:53:47.650Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" version="18.0.2" etag="z-rylgCoHmRS8PBthpNW" type="google">
+  <diagram id="XuAARS_FP4yocxT29VZ0">
+    <mxGraphModel dx="2338" dy="1665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="tuottaa" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fillColor=#ffe6cc;strokeColor=#000000;fontFamily=Calibri (Body);" edge="1" source="4" target="18" parent="1">
+          <mxGeometry x="-0.5385" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-116.25" y="2850" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3" value="informoi" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=13;fillColor=#ffe6cc;strokeColor=#000000;fontFamily=Calibri (Body);" edge="1" target="20" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-171.25" y="2736" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-210.81" y="2736" />
+              <mxPoint x="-210.81" y="2668" />
+              <mxPoint x="-248.81" y="2668" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/gcons-2/23/circular10-128.png;rotation=-90;imageBackground=none;fontFamily=Calibri (Body);" vertex="1" parent="1">
+          <mxGeometry x="-180.25" y="2672" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Ennen testausta" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=19;fontFamily=Calibri Light (Headings);" vertex="1" parent="1">
+          <mxGeometry x="-398.75000000000006" y="2490" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Testaus" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=19;fontFamily=Calibri Light (Headings);" vertex="1" parent="1">
+          <mxGeometry x="-131.25" y="2490" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Testauksen jälkeen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=19;fontFamily=Calibri Light (Headings);" vertex="1" parent="1">
+          <mxGeometry x="138.75" y="2490" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="ohjaa" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fillColor=#ffe6cc;strokeColor=#000000;fontFamily=Calibri (Body);" edge="1" source="9" target="20" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="&lt;b&gt;Valmistelu&lt;br&gt;&lt;/b&gt;" style="rounded=0;fontSize=13;spacing=3;html=1;whiteSpace=wrap;fillColor=#4472C4;strokeColor=none;fontColor=#FFFFFF;fontFamily=Calibri (Body);" vertex="1" parent="1">
+          <mxGeometry x="-373.75000000000006" y="2760" width="125" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="ohjaa" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;exitX=0.506;exitY=0.904;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#000000;fontFamily=Calibri (Body);" edge="1" source="11" target="4" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-121.25" y="2670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11" value="Testaussopimus,&lt;br&gt;Vaatimukset,&lt;br&gt;Työlista" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=13;fillColor=#70AD47;strokeColor=none;fontColor=#FFFFFF;fontFamily=Calibri (Body);fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-176.25" y="2550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="Sprintti" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1;fontFamily=Calibri (Body);" vertex="1" parent="1">
+          <mxGeometry x="-146.25" y="2716" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=13;fontFamily=Calibri (Body);" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-211.25" y="2920" as="sourcePoint" />
+            <mxPoint x="-211.25" y="2480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=13;fontFamily=Calibri (Body);" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="118.75" y="2920" as="sourcePoint" />
+            <mxPoint x="118.75" y="2480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15" value="muodostaa" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fillColor=#ffe6cc;strokeColor=#000000;fontFamily=Calibri (Body);" edge="1" source="16" parent="1">
+          <mxGeometry x="-0.6522" relative="1" as="geometry">
+            <mxPoint x="-61.25" y="2740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="23.75" y="2740" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16" value="&lt;b&gt;Testaus&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#4472C4;strokeColor=none;fontColor=#FFFFFF;fontFamily=Calibri (Body);" vertex="1" parent="1">
+          <mxGeometry x="-38.75" y="2610" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="&lt;font color=&quot;#000000&quot;&gt;ohjaa&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FFFFFF;strokeColor=default;" edge="1" source="18" target="22" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="Tulokset" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=13;fillColor=#70AD47;strokeColor=none;fontColor=#FFFFFF;fontFamily=Calibri (Body);fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-36.25" y="2820" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="tuottaa" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fillColor=#ffe6cc;strokeColor=#000000;fontFamily=Calibri (Body);" edge="1" source="20" target="11" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-211.25" y="2625" />
+              <mxPoint x="-211.25" y="2590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20" value="&lt;b&gt;Suunnittelu&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#4472C4;strokeColor=none;fontColor=#FFFFFF;fontFamily=Calibri (Body);fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="-373.75000000000006" y="2600" width="125" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="tuottaa" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.507;entryY=0.825;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="22" target="23" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="&lt;b&gt;Viimeistely&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#4472C4;strokeColor=none;fontColor=#FFFFFF;fontFamily=Calibri (Body);" vertex="1" parent="1">
+          <mxGeometry x="153.75" y="2780" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="23" value="Raportti" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=13;fillColor=#70AD47;strokeColor=none;fontColor=#FFFFFF;fontFamily=Calibri (Body);fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="158.75" y="2605" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

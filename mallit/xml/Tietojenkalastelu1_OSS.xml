@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2022-05-11T15:07:40.779Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" version="18.0.2" etag="KTexeHqeZ-U603P8LXqG" type="google">
+  <diagram id="4iIUAwoeqwdYf9Zq3d9o">
+    <mxGraphModel dx="3826" dy="2230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="ohjaa" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#000000;" edge="1" source="7" target="12" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;endArrow=none;endFill=0;startArrow=block;startFill=0;" edge="1" source="7" target="13" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-110" y="1390" />
+              <mxPoint x="-110" y="1500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;endArrow=none;endFill=0;startArrow=block;startFill=0;" edge="1" source="7" target="14" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-80" y="1390" />
+              <mxPoint x="-80" y="1390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=block;startFill=0;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" source="7" target="16" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=block;startFill=0;endArrow=none;endFill=0;" edge="1" source="7" target="19" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Uhkaskenaario 1&lt;br&gt;&lt;b&gt;Valtion B geopoliittinen aggressio&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="1360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="ohjaa" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#000000;" edge="1" source="12" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-20" y="1580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=block;startFill=0;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" source="12" target="15" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=block;startFill=0;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" source="12" target="17" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=block;startFill=0;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" source="12" target="18" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="Hyökkäysskenaario 1&lt;br&gt;&lt;b&gt;Henkilöstön käyttäjätunnusten kalastelu&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="1470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="Uhkatyyppi&lt;br&gt;&lt;b&gt;Kybersodankäynti&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;comic=0;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="1470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="Toimija&lt;br&gt;&lt;b&gt;Valtion B&lt;br&gt;asevoimat&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="1360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="Hyökkäyspinta&lt;br&gt;&lt;b&gt;Henkilöstön&lt;br&gt;kybervalmiudet&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="Kohdeyksikkö&lt;br&gt;&lt;b&gt;Kunta A&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-80.12" y="1270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="Riskiluokitus&lt;br&gt;&lt;b&gt;Korkea&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="Hyökkäystyypppi&lt;br&gt;&lt;b&gt;Tiedonkalastelu&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="Motiivi&lt;br&gt;&lt;b&gt;Sotilaallinen, poliittinen&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;comic=0;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="1580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=block;startFill=0;" edge="1" source="26" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-270.1199999999999" y="1700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=block;startFill=0;" edge="1" source="26" target="27" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;startArrow=block;startFill=0;" edge="1" source="26" target="28" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;endArrow=none;endFill=0;startArrow=block;startFill=0;" edge="1" source="26" target="29" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=block;startFill=0;endArrow=none;endFill=0;" edge="1" source="26" target="30" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=block;startFill=0;endArrow=none;endFill=0;" edge="1" source="26" target="31" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="26" value="Penetraatiotestaus&lt;br&gt;&lt;b&gt;Tilannekohtainen menetelmä&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-80.12" y="1580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="27" value="Välineet&lt;br&gt;&lt;b&gt;Gophish-palvelin, kalastelupalvelin&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="1700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="28" value="Tuotokset&lt;br&gt;&lt;b&gt;Testaussopimus, testausraportti jne.&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="1700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="29" value="Roolit&lt;br&gt;&lt;b&gt;Penetraatiotestaaja, kohdeyksikön edustajat&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="1700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="30" value="Testaus-&lt;br&gt;lähestymistavat&lt;br&gt;&lt;b&gt;Valkoinen laatikko&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="31" value="Testauskehykset&lt;br&gt;&lt;b&gt;PTES (soveltuvilta osin)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=block;startFill=0;endArrow=none;endFill=0;" edge="1" source="36" target="42" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=block;startFill=0;endArrow=none;endFill=0;" edge="1" source="36" target="51" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=block;startFill=0;endArrow=none;endFill=0;" edge="1" source="36" target="61" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=block;startFill=0;endArrow=none;endFill=0;" edge="1" source="36" target="66" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="36" value="Aktiviteetit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="1700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=block;startFill=0;endArrow=none;endFill=0;" edge="1" source="42" target="45" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-630" y="1860" />
+              <mxPoint x="-630" y="2020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=block;startFill=0;endArrow=none;endFill=0;" edge="1" source="42" target="52" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-630" y="1860" />
+              <mxPoint x="-630" y="1940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=block;startFill=0;endArrow=none;endFill=0;" edge="1" source="42" target="46" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-630" y="1860" />
+              <mxPoint x="-630" y="2100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=block;startFill=0;endArrow=none;endFill=0;" edge="1" source="42" target="73" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-630" y="1860" />
+              <mxPoint x="-630" y="2180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=block;startFill=0;endArrow=none;endFill=0;" edge="1" source="42" target="76" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-630" y="1860" />
+              <mxPoint x="-630" y="2260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="42" value="Valmistelu" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-599.9399999999999" y="1830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="43" value="Dokumentaation laatiminen&lt;br&gt;&lt;b&gt;Dokum. tulokset ja kokemukset&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="1910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="44" value="Tulosten analysointi&lt;br&gt;&lt;b&gt;Käydään läpi tulokset&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="1990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="45" value="Hyök. skenaarioiden määrittely&lt;br&gt;&lt;b&gt;Hyökkäys-&lt;br&gt;skenaario 1&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-599.9399999999999" y="1990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="46" value="Testattavien hyök. skenaarioiden valinta&lt;br&gt;&lt;b&gt;Hyökkäys-&lt;br&gt;skenaario 1&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-599.9399999999999" y="2070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=block;startFill=0;endArrow=none;endFill=0;" edge="1" source="51" target="53" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-450" y="1860" />
+              <mxPoint x="-450" y="1940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=block;startFill=0;endArrow=none;endFill=0;" edge="1" source="51" target="54" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-450" y="1860" />
+              <mxPoint x="-450" y="2020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=block;startFill=0;endArrow=none;endFill=0;" edge="1" source="51" target="55" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-450" y="1860" />
+              <mxPoint x="-450" y="2100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=block;startFill=0;endArrow=none;endFill=0;" edge="1" source="51" target="56" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-450" y="1860" />
+              <mxPoint x="-450" y="2180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="51" value="Suunnittelu" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-419.9999999999999" y="1830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="52" value="Uhkaskenaareioiden määrittely&lt;br&gt;&lt;b&gt;Uhkaskenaario 1&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-599.9399999999999" y="1910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="53" value="Sopimusten hallinta&lt;br&gt;&lt;b&gt;Testaussopimus kunnan hallinnon kanssa&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-419.9999999999999" y="1910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="54" value="Vaatimusten hallinta&lt;br&gt;&lt;b&gt;Kts. vaatimukset&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-419.9999999999999" y="1990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="55" value="Tehtävien hallinta&lt;br&gt;&lt;b&gt;Kts. työlista&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-419.9999999999999" y="2070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="56" value="Testauksen resursointi&lt;br&gt;&lt;b&gt;Allokoidaan 3 htp&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-419.9999999999999" y="2150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=block;startFill=0;endArrow=none;endFill=0;" edge="1" source="61" target="67" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-270" y="1860" />
+              <mxPoint x="-270" y="1940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=block;startFill=0;endArrow=none;endFill=0;" edge="1" source="61" target="68" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-270" y="1860" />
+              <mxPoint x="-270" y="2020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=block;startFill=0;endArrow=none;endFill=0;" edge="1" source="61" target="69" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-270" y="1860" />
+              <mxPoint x="-270" y="2100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=block;startFill=0;endArrow=none;endFill=0;" edge="1" source="61" target="70" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-270" y="1860" />
+              <mxPoint x="-270" y="2180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="61" value="Testaus" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-239.99999999999994" y="1830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=block;startFill=0;endArrow=none;endFill=0;" edge="1" source="66" target="43" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-90" y="1860" />
+              <mxPoint x="-90" y="1940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=block;startFill=0;endArrow=none;endFill=0;" edge="1" source="66" target="44" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-90" y="1860" />
+              <mxPoint x="-90" y="2020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=block;startFill=0;endArrow=none;endFill=0;" edge="1" source="66" target="71" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-90" y="1860" />
+              <mxPoint x="-90" y="2100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=block;startFill=0;endArrow=none;endFill=0;" edge="1" source="66" target="72" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-90" y="1860" />
+              <mxPoint x="-90" y="2180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="66" value="Viimeistely" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="1830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="67" value="Testiympäristön hallinta&lt;br&gt;&lt;b&gt;Tuotantoympäristö&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-239.99999999999994" y="1910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="68" value="Testivälineiden hallinta&lt;br&gt;&lt;b&gt;Gophish- ja kalastelupalvelin&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-239.99999999999994" y="1990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="69" value="Testitapausten hallinta&lt;br&gt;&lt;b&gt;Kalastelu-emailit ja -www-sivu&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-239.99999999999994" y="2070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="70" value="Testauksen suorittaminen&lt;br&gt;&lt;b&gt;Työstetään työlistan tehtävät sprintissä&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-239.99999999999994" y="2150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="71" value="Kehityssuositusten laatiminen&lt;br&gt;&lt;b&gt;Käsitellään Haavoittuvuudet&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="2070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="72" value="Raportointi ja mahd. jatkotoimenpiteet&lt;br&gt;&lt;b&gt;Raportoidaan ja mahd. korjataan&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="2150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="73" value="Hyökkäysvektoreiden määrittely&lt;br&gt;&lt;b&gt;Sähköpostiviesti&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-599.9399999999999" y="2150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="74" value="Vaatimukset&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;kalasteludomain tulee muistuttaa henkilöstölle tuttua domainia&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;kalastelu-www-sivu tulee olla klooni henkilöstölle tutusta sivusta&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;kalastelu-www-sivu suojataan SSL-sertifikaatilla (Letsencypt)&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;emailit kalastelu-domainista&amp;nbsp;tulee sallia henkilöstön osoitteisiin&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;kalasteltuja salasanoja ei tule tallentaa&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1800" width="190" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="75" value="Työlista&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;asenna &lt;a href=&quot;https://docs.getgophish.com/user-guide/installation&quot;&gt;Gophish&lt;/a&gt; serverille&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;hanki kalasteludomain ja luo sille SSL-sertifikaatti&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;ota käyttöön email-palvelin&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;ota käyttöön kalasteludomainista lähettäminen&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;määritä Gophishiin a) lähetysprofiili b) email-templaatit c) landing page d) uusi käyttäjäryhmä&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;kopioi kunnan julkisista yhteystiedoista satunnaisotannalla n kpl email-osoitteita ja tuo ne uuteen käyttäjäryhmään&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;luo uusi kampanja ja määritä em. asiat käyttöön&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;lähetä kampanja ja seuraa sen statistiikkaa&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;päätä kampanja n viikon kuluttua&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1800" width="190" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="76" value="Testausmenetelmän määrittely&lt;br&gt;&lt;b&gt;Tietojenkalastelu-simulaatio&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-599.9999999999999" y="2230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="77" value="Testaussopimus&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Laajuus&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Kohteet&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Ympäristö&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Aikajänne&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Välietapit&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Vastuut&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Kulut&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Viestintäsuunnitelma&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Tuotokset&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Raportointi&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="2100" width="190" height="230" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
